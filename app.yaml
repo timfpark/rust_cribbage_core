@@ -6,4 +6,4 @@ values:
     cpu: 0.5 
     memory: 64M
     replicas: 2
-    port: 80
+    port: 8080
