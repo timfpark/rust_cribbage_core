@@ -1,7 +1,7 @@
 template: external-service
 values:
     fqdn: cribbage.cloud
-    image: krakenapps.azurecr.io/rust_cribbage_core:noel
+    image: tpark.azurecr.io/cribbage-api:20211022T162837Z
     app: cribbage-api
     cpu: 0.5 
     memory: 64M
